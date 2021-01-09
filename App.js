@@ -38,7 +38,7 @@ class App extends React.Component {
       <NavigationContainer>
       <Stack.Navigator>
         <Stack.Screen
-          name="Home123"
+          name="Home"
           component={HomeScreen}
         />
         <Stack.Screen
