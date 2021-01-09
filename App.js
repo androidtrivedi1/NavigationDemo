@@ -38,11 +38,11 @@ class App extends React.Component {
       <NavigationContainer>
       <Stack.Navigator>
         <Stack.Screen
-          name="Home222"
+          name="Home"
           component={HomeScreen}
         />
         <Stack.Screen
-          name="Friends123"
+          name="Friends"
           component={FriendsScreen}
         />
       </Stack.Navigator>
