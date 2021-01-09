@@ -42,7 +42,7 @@ class App extends React.Component {
           component={HomeScreen}
         />
         <Stack.Screen
-          name="Friends123"
+          name="Friends789"
           component={FriendsScreen}
         />
       </Stack.Navigator>
